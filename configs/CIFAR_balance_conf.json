@@ -1,0 +1,6 @@
+{
+    "models": [{"model_type": "2_layer_CNN", "params": {"n1": 128, "n2": 256, "dropout_rate": 0.2}},
+               {"model_type": "3_layer_CNN", "params": {"n1": 64, "n2": 128, "n3": 256, "dropout_rate": 0.2}}
+              ],
+    "xxx": "xxx"
+}
